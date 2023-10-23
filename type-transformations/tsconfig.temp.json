@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "types": [
+      "vitest/importMeta"
+    ],
+    "target": "es2020",
+    "module": "ES2022",
+    "moduleResolution": "node",
+    "noEmit": true,
+    "isolatedModules": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true
+  },
+  "include": [
+    "/Users/andrelfnavarro/Workspace/p/total-typescript/type-transformations/src/03-template-literals/14-template-literal-with-string.problem.ts"
+  ]
+}
